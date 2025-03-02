@@ -1,0 +1,914 @@
+[
+  {
+    "alias": "dst1",
+    "name": "Paris",
+    "clues": [
+      "Home to a famous tower finished in 1889",
+      "Called the City of Light"
+    ],
+    "funFacts": [
+      "The Louvre is the world's largest art museum.",
+      "Famous for café culture and haute cuisine."
+    ]
+  },
+  {
+    "alias": "dst2",
+    "name": "Tokyo",
+    "clues": [
+      "Capital city with over 13 million residents",
+      "Known for high-tech, anime, and cherry blossoms"
+    ],
+    "funFacts": [
+      "It's the most populous metropolitan area in the world.",
+      "Tsukiji once was the world's largest fish market."
+    ]
+  },
+  {
+    "alias": "dst3",
+    "name": "Rome",
+    "clues": [
+      "City built on seven hills",
+      "Home to ancient gladiatorial arenas"
+    ],
+    "funFacts": [
+      "Contains a country within its borders.",
+      "People throw about €1.5 million into its famous fountain annually."
+    ]
+  },
+  {
+    "alias": "dst4",
+    "name": "New York City",
+    "clues": [
+      "Known as the Big Apple",
+      "Has a famous statue gifted by France"
+    ],
+    "funFacts": [
+      "More than 800 languages are spoken here, making it the most linguistically diverse city in the world.",
+      "The subway system has 472 stations."
+    ]
+  },
+  {
+    "alias": "dst5",
+    "name": "Cairo",
+    "clues": [
+      "City near three famous triangular structures",
+      "Located on the banks of the Nile"
+    ],
+    "funFacts": [
+      "It's the largest city in Africa.",
+      "The Khan el-Khalili bazaar has been operating since the 14th century."
+    ]
+  },
+  {
+    "alias": "dst6",
+    "name": "Sydney",
+    "clues": [
+      "Home to a famous opera house with sail-like roofs",
+      "Largest city in Australia"
+    ],
+    "funFacts": [
+      "The Sydney Harbour Bridge is nicknamed 'The Coathanger'.",
+      "Bondi Beach is one of the most famous beaches in the world."
+    ]
+  },
+  {
+    "alias": "dst7",
+    "name": "Rio de Janeiro",
+    "clues": [
+      "Has a 98-foot statue of Christ overlooking the city",
+      "Famous for its annual carnival"
+    ],
+    "funFacts": [
+      "Its name means 'January River' in Portuguese.",
+      "Copacabana Beach stretches for 4.5 kilometers."
+    ]
+  },
+  {
+    "alias": "dst8",
+    "name": "Venice",
+    "clues": [
+      "City built on more than 100 small islands",
+      "Known for canals instead of streets"
+    ],
+    "funFacts": [
+      "There are over 400 bridges in this city.",
+      "The entire city is listed as a UNESCO World Heritage Site."
+    ]
+  },
+  {
+    "alias": "dst9",
+    "name": "Barcelona",
+    "clues": [
+      "Famous for Gaudí's unfinished cathedral",
+      "Capital of Catalonia"
+    ],
+    "funFacts": [
+      "La Sagrada Familia has been under construction since 1882.",
+      "The city has 9 UNESCO World Heritage Sites."
+    ]
+  },
+  {
+    "alias": "dst10",
+    "name": "London",
+    "clues": [
+      "Home to a famous clock tower often mistakenly called by the bell's name",
+      "City where the Underground was the world's first subway system"
+    ],
+    "funFacts": [
+      "The London Eye is the world's tallest cantilevered observation wheel.",
+      "It has more than 170 museums, many of which are free to visit."
+    ]
+  },
+  {
+    "alias": "dst11",
+    "name": "Amsterdam",
+    "clues": [
+      "City with more bicycles than people",
+      "Known for its elaborate canal system"
+    ],
+    "funFacts": [
+      "Has over 1,500 bridges crossing its canals.",
+      "Many houses tilt forward intentionally to avoid furniture damage when moving."
+    ]
+  },
+  {
+    "alias": "dst12",
+    "name": "Istanbul",
+    "clues": [
+      "Only city in the world located on two continents",
+      "Previously known as Constantinople"
+    ],
+    "funFacts": [
+      "The Grand Bazaar is one of the world's oldest and largest covered markets.",
+      "Tulips originated in Turkey, not the Netherlands."
+    ]
+  },
+  {
+    "alias": "dst13",
+    "name": "Dubai",
+    "clues": [
+      "Home to the world's tallest building",
+      "City with man-made islands shaped like a palm tree"
+    ],
+    "funFacts": [
+      "Has the world's only 7-star hotel, the Burj Al Arab.",
+      "Less than 15% of residents are native Emiratis."
+    ]
+  },
+  {
+    "alias": "dst14",
+    "name": "Kyoto",
+    "clues": [
+      "Former imperial capital of Japan for over 1,000 years",
+      "Known for its numerous temples and gardens"
+    ],
+    "funFacts": [
+      "Has over 1,600 Buddhist temples and 400 Shinto shrines.",
+      "Was spared from atomic bombing in WWII due to its cultural significance."
+    ]
+  },
+  {
+    "alias": "dst15",
+    "name": "San Francisco",
+    "clues": [
+      "City with a famous fog-shrouded bridge",
+      "Known for its steep hills and cable cars"
+    ],
+    "funFacts": [
+      "The Golden Gate Bridge is painted 'International Orange' to enhance visibility in fog.",
+      "Alcatraz Island was a federal prison for 29 years."
+    ]
+  },
+  {
+    "alias": "dst16",
+    "name": "Machu Picchu",
+    "clues": [
+      "Ancient city built high in the Andes mountains",
+      "Rediscovered in 1911 by Hiram Bingham"
+    ],
+    "funFacts": [
+      "It was built around 1450 and abandoned just over 100 years later.",
+      "The stonework is so precise that you cannot fit a knife blade between the stones."
+    ]
+  },
+  {
+    "alias": "dst17",
+    "name": "Prague",
+    "clues": [
+      "City of a hundred spires",
+      "Has a medieval astronomical clock that still works"
+    ],
+    "funFacts": [
+      "Prague Castle is the largest ancient castle complex in the world.",
+      "The city was largely undamaged by WWII, preserving its historic architecture."
+    ]
+  },
+  {
+    "alias": "dst18",
+    "name": "Bangkok",
+    "clues": [
+      "City with the longest official name in the world",
+      "Known for floating markets and street food"
+    ],
+    "funFacts": [
+      "The full ceremonial name of Bangkok is 168 letters long.",
+      "It's home to over 400 ornate Buddhist temples."
+    ]
+  },
+  {
+    "alias": "dst19",
+    "name": "Jerusalem",
+    "clues": [
+      "Holy city to three major religions",
+      "Contains the Western Wall"
+    ],
+    "funFacts": [
+      "It has been destroyed and rebuilt at least twice.",
+      "The Old City has four quarters: Jewish, Christian, Muslim, and Armenian."
+    ]
+  },
+  {
+    "alias": "dst20",
+    "name": "Marrakech",
+    "clues": [
+      "Known as the Red City due to its buildings",
+      "Famous for its labyrinthine medina"
+    ],
+    "funFacts": [
+      "Jemaa el-Fnaa square transforms into a huge open-air restaurant every night.",
+      "The medina contains over 3,000 twisting alleyways."
+    ]
+  },
+  {
+    "alias": "dst21",
+    "name": "Athens",
+    "clues": [
+      "Birthplace of democracy",
+      "Home to ruins of a famous hilltop temple complex"
+    ],
+    "funFacts": [
+      "It's one of the oldest cities in the world, with a recorded history spanning over 3,400 years.",
+      "The Acropolis was built in the 5th century BCE."
+    ]
+  },
+  {
+    "alias": "dst22",
+    "name": "Cape Town",
+    "clues": [
+      "City near the meeting point of two oceans",
+      "Overlooked by a flat-topped mountain"
+    ],
+    "funFacts": [
+      "Table Mountain has over 2,200 species of plants, more than the entire United Kingdom.",
+      "It's home to the world's largest individually timed cycle race."
+    ]
+  },
+  {
+    "alias": "dst23",
+    "name": "Petra",
+    "clues": [
+      "Ancient city carved into rose-colored stone",
+      "Featured in 'Indiana Jones and the Last Crusade'"
+    ],
+    "funFacts": [
+      "It was unknown to the Western world until 1812.",
+      "The Treasury building is actually a royal tomb."
+    ]
+  },
+  {
+    "alias": "dst24",
+    "name": "Santorini",
+    "clues": [
+      "Island with iconic blue-domed churches",
+      "Built on the rim of an active volcano"
+    ],
+    "funFacts": [
+      "Its official name is Thira.",
+      "The island is what remains after one of the largest volcanic eruptions in history."
+    ]
+  },
+  {
+    "alias": "dst25",
+    "name": "Mexico City",
+    "clues": [
+      "Built on the ruins of an ancient Aztec city",
+      "Highest elevation major city in North America"
+    ],
+    "funFacts": [
+      "It's slowly sinking because it was built on a lake.",
+      "Has the most museums of any city in the world."
+    ]
+  },
+  {
+    "alias": "dst26",
+    "name": "Berlin",
+    "clues": [
+      "City once divided by a famous wall",
+      "Has a gate topped with a quadriga statue"
+    ],
+    "funFacts": [
+      "Has more bridges than Venice.",
+      "The TV Tower is visible from every district of the city."
+    ]
+  },
+  {
+    "alias": "dst27",
+    "name": "Moscow",
+    "clues": [
+      "City with colorful onion-domed cathedral in Red Square",
+      "Home to the world's largest country's government"
+    ],
+    "funFacts": [
+      "The Moscow Metro is known for its ornate stations decorated with chandeliers and artwork.",
+      "The Kremlin is the largest active fortress in Europe."
+    ]
+  },
+  {
+    "alias": "dst28",
+    "name": "Hong Kong",
+    "clues": [
+      "Known for its stunning skyline and harbor",
+      "Former British colony returned to China in 1997"
+    ],
+    "funFacts": [
+      "Has more skyscrapers than any other city in the world.",
+      "The Star Ferry has been in operation since 1888."
+    ]
+  },
+  {
+    "alias": "dst29",
+    "name": "Angkor Wat",
+    "clues": [
+      "Largest religious monument in the world",
+      "Ancient temple complex in Cambodia"
+    ],
+    "funFacts": [
+      "It appears on the Cambodian flag.",
+      "It was originally built as a Hindu temple, later converted to Buddhism."
+    ]
+  },
+  {
+    "alias": "dst30",
+    "name": "Vienna",
+    "clues": [
+      "City of music, home to Mozart and Beethoven",
+      "Known for coffee houses and Sachertorte"
+    ],
+    "funFacts": [
+      "It's the only capital city with its own wine region.",
+      "The Spanish Riding School has been training Lipizzaner horses for over 450 years."
+    ]
+  },
+  {
+    "alias": "dst31",
+    "name": "Buenos Aires",
+    "clues": [
+      "South American city known as the 'Paris of the South'",
+      "Birthplace of tango"
+    ],
+    "funFacts": [
+      "Has the widest avenue in the world, 9 de Julio Avenue.",
+      "El Ateneo Grand Splendid is a bookstore in a former theater."
+    ]
+  },
+  {
+    "alias": "dst32",
+    "name": "Reykjavik",
+    "clues": [
+      "World's northernmost capital city",
+      "Heated by geothermal energy"
+    ],
+    "funFacts": [
+      "Almost all of Iceland's heating and electricity comes from renewable sources.",
+      "The name means 'Smoky Bay' due to steam from hot springs."
+    ]
+  },
+  {
+    "alias": "dst33",
+    "name": "Seoul",
+    "clues": [
+      "Capital city with ancient palaces and modern skyscrapers",
+      "Divided by the Han River"
+    ],
+    "funFacts": [
+      "The Seoul subway is among the world's most extensive and heavily used.",
+      "Songdo, near Seoul, is a completely planned 'smart city'."
+    ]
+  },
+  {
+    "alias": "dst34",
+    "name": "Havana",
+    "clues": [
+      "City known for vintage cars and colorful colonial buildings",
+      "Capital where Hemingway wrote 'The Old Man and the Sea'"
+    ],
+    "funFacts": [
+      "The Capitol building is slightly taller than its counterpart in Washington, DC.",
+      "Has one of the largest collections of colonial architecture in the Americas."
+    ]
+  },
+  {
+    "alias": "dst35",
+    "name": "Florence",
+    "clues": [
+      "Birthplace of the Renaissance",
+      "City where Michelangelo's David is displayed"
+    ],
+    "funFacts": [
+      "The Uffizi Gallery houses the world's finest collection of Renaissance art.",
+      "The Florence Cathedral dome was the largest in the world until 1881."
+    ]
+  },
+  {
+    "alias": "dst36",
+    "name": "Taj Mahal",
+    "clues": [
+      "Marble mausoleum built by a Mughal emperor for his wife",
+      "Located in Agra, India"
+    ],
+    "funFacts": [
+      "It took more than 20,000 workers and 1,000 elephants to build.",
+      "The marble changes color throughout the day."
+    ]
+  },
+  {
+    "alias": "dst37",
+    "name": "Toronto",
+    "clues": [
+      "City with a tower featuring a glass floor",
+      "Most populous city in Canada"
+    ],
+    "funFacts": [
+      "Over 180 languages and dialects are spoken there.",
+      "Has the longest street in the world, Yonge Street."
+    ]
+  },
+  {
+    "alias": "dst38",
+    "name": "Great Barrier Reef",
+    "clues": [
+      "World's largest coral reef system",
+      "Visible from space"
+    ],
+    "funFacts": [
+      "It's made up of over 2,900 individual reefs and 900 islands.",
+      "It's home to more than 1,500 species of fish."
+    ]
+  },
+  {
+    "alias": "dst39",
+    "name": "Bora Bora",
+    "clues": [
+      "Island known for overwater bungalows",
+      "Has a dormant volcano at its center"
+    ],
+    "funFacts": [
+      "The island is only 6 miles long and 2.5 miles wide.",
+      "It was discovered by Captain James Cook in 1769."
+    ]
+  },
+  {
+    "alias": "dst40",
+    "name": "Serengeti",
+    "clues": [
+      "Home to the great wildebeest migration",
+      "Name means 'endless plains' in Maasai"
+    ],
+    "funFacts": [
+      "The migration involves over 1.5 million wildebeest.",
+      "It's one of the oldest ecosystems on Earth, with vegetation and climate barely changed in the past million years."
+    ]
+  },
+  {
+    "alias": "dst41",
+    "name": "Maldives",
+    "clues": [
+      "Nation of coral islands with the lowest elevation on Earth",
+      "Known for underwater restaurants and hotels"
+    ],
+    "funFacts": [
+      "It consists of 1,192 coral islands grouped into 26 atolls.",
+      "The highest natural point is just 2.4 meters above sea level."
+    ]
+  },
+  {
+    "alias": "dst42",
+    "name": "Easter Island",
+    "clues": [
+      "Remote island with nearly 1,000 stone statues",
+      "One of the most isolated inhabited islands"
+    ],
+    "funFacts": [
+      "The statues (moai) average 13 feet tall and weigh 14 tons.",
+      "The indigenous name for the island is Rapa Nui."
+    ]
+  },
+  {
+    "alias": "dst43",
+    "name": "Mont Saint-Michel",
+    "clues": [
+      "Medieval monastery on a tidal island",
+      "Connected to mainland France by a causeway"
+    ],
+    "funFacts": [
+      "The tides can rise up to 46 feet.",
+      "It has been a strategic fortress since ancient times."
+    ]
+  },
+  {
+    "alias": "dst44",
+    "name": "Dubrovnik",
+    "clues": [
+      "Walled city on the Adriatic Sea",
+      "Filming location for 'Game of Thrones'"
+    ],
+    "funFacts": [
+      "The city walls are 1.9 miles long and up to 25 meters high.",
+      "It was an independent republic for centuries, known as Ragusa."
+    ]
+  },
+  {
+    "alias": "dst45",
+    "name": "Chichen Itza",
+    "clues": [
+      "Mayan pyramid that casts a serpent shadow during equinoxes",
+      "Archaeological site in the Yucatan Peninsula"
+    ],
+    "funFacts": [
+      "The main pyramid has 365 steps, one for each day of the year.",
+      "It has the largest ball court in ancient Mesoamerica."
+    ]
+  },
+  {
+    "alias": "dst46",
+    "name": "Bali",
+    "clues": [
+      "Island known as the 'Island of the Gods'",
+      "Famous for terraced rice fields"
+    ],
+    "funFacts": [
+      "It has over 20,000 temples.",
+      "The Balinese calendar has 210 days in a year."
+    ]
+  },
+  {
+    "alias": "dst47",
+    "name": "Denali",
+    "clues": [
+      "Highest mountain peak in North America",
+      "Located in Alaska"
+    ],
+    "funFacts": [
+      "It rises 18,000 feet from base to summit, one of the largest base-to-peak rises in the world.",
+      "The mountain creates its own weather system."
+    ]
+  },
+  {
+    "alias": "dst48",
+    "name": "Sahara Desert",
+    "clues": [
+      "World's largest hot desert",
+      "Covers much of North Africa"
+    ],
+    "funFacts": [
+      "It's approximately the size of the United States.",
+      "Some areas can go years without rainfall."
+    ]
+  },
+  {
+    "alias": "dst49",
+    "name": "Kathmandu",
+    "clues": [
+      "Capital city in the Himalayas",
+      "Known for ancient temples and stupas"
+    ],
+    "funFacts": [
+      "Durbar Square contains more than 50 temples.",
+      "The city was founded in the 12th century."
+    ]
+  },
+  {
+    "alias": "dst50",
+    "name": "Galapagos Islands",
+    "clues": [
+      "Archipelago where Darwin developed his theory of evolution",
+      "Home to unique species like giant tortoises"
+    ],
+    "funFacts": [
+      "These islands are located at the confluence of three ocean currents.",
+      "They're home to the only penguin species found north of the equator."
+    ]
+  },
+  {
+    "alias": "dst51",
+    "name": "Cappadocia",
+    "clues": [
+      "Region known for unique rock formations and cave dwellings",
+      "Famous for hot air balloon rides at sunrise"
+    ],
+    "funFacts": [
+      "Underground cities there could shelter up to 20,000 people.",
+      "The rock formations are called 'fairy chimneys'."
+    ]
+  },
+  {
+    "alias": "dst52",
+    "name": "Niagara Falls",
+    "clues": [
+      "Three waterfalls straddling an international border",
+      "Known for its massive water volume"
+    ],
+    "funFacts": [
+      "It's not the tallest waterfall, but has the highest flow rate.",
+      "The falls erode about 1 foot per year."
+    ]
+  },
+  {
+    "alias": "dst53",
+    "name": "Mount Everest",
+    "clues": [
+      "Earth's highest mountain above sea level",
+      "Known as Sagarmatha in Nepal and Chomolungma in Tibet"
+    ],
+    "funFacts": [
+      "It grows about 4mm taller every year.",
+      "The first confirmed summit was in 1953 by Edmund Hillary and Tenzing Norgay."
+    ]
+  },
+  {
+    "alias": "dst54",
+    "name": "Pompeii",
+    "clues": [
+      "Ancient Roman city preserved by volcanic ash",
+      "Destroyed by Mount Vesuvius in 79 CE"
+    ],
+    "funFacts": [
+      "The city was rediscovered in 1748.",
+      "Archaeologists found loaves of bread that were still intact."
+    ]
+  },
+  {
+    "alias": "dst55",
+    "name": "Madagascar",
+    "clues": [
+      "Island nation where 90% of wildlife is found nowhere else",
+      "Home to lemurs and baobab trees"
+    ],
+    "funFacts": [
+      "It's the world's fourth-largest island.",
+      "It separated from India approximately 88 million years ago."
+    ]
+  },
+  {
+    "alias": "dst56",
+    "name": "Kyiv",
+    "clues": [
+      "City with golden-domed monasteries",
+      "One of the oldest cities in Eastern Europe"
+    ],
+    "funFacts": [
+      "The city is built upon seven hills, like Rome.",
+      "Its metro station Arsenalna is the deepest in the world at 105.5 meters."
+    ]
+  },
+  {
+    "alias": "dst57",
+    "name": "Cusco",
+    "clues": [
+      "Ancient capital of the Inca Empire",
+      "Gateway city to Machu Picchu"
+    ],
+    "funFacts": [
+      "The city was designed in the shape of a puma.",
+      "Many buildings have Inca foundations that have survived numerous earthquakes."
+    ]
+  },
+  {
+    "alias": "dst58",
+    "name": "Antelope Canyon",
+    "clues": [
+      "Slot canyon with swirling sandstone walls",
+      "Created by flash flooding over millions of years"
+    ],
+    "funFacts": [
+      "The Navajo name means 'the place where water runs through rocks'.",
+      "The light beams that shine down into the canyon only occur at certain times of day and year."
+    ]
+  },
+  {
+    "alias": "dst59",
+    "name": "Victoria Falls",
+    "clues": [
+      "Waterfall known locally as 'The Smoke That Thunders'",
+      "Located on the border of Zambia and Zimbabwe"
+    ],
+    "funFacts": [
+      "It's the largest sheet of falling water in the world.",
+      "During the full moon, a 'moonbow' can be seen at night."
+    ]
+  },
+  {
+    "alias": "dst60",
+    "name": "Varanasi",
+    "clues": [
+      "One of the world's oldest continuously inhabited cities",
+      "Holy city on the banks of the Ganges River"
+    ],
+    "funFacts": [
+      "It's considered the spiritual capital of India.",
+      "There are over 2,000 temples in the city."
+    ]
+  },
+  {
+    "alias": "dst61",
+    "name": "Dead Sea",
+    "clues": [
+      "Hypersaline lake where people float effortlessly",
+      "Earth's lowest land elevation"
+    ],
+    "funFacts": [
+      "It's about 10 times saltier than the ocean.",
+      "The water level is dropping by about 3 feet per year."
+    ]
+  },
+  {
+    "alias": "dst62",
+    "name": "Yellowstone",
+    "clues": [
+      "Home to Old Faithful geyser",
+      "World's first national park"
+    ],
+    "funFacts": [
+      "It sits on top of a supervolcano.",
+      "Contains more than half of the world's geysers."
+    ]
+  },
+  {
+    "alias": "dst63",
+    "name": "Lisbon",
+    "clues": [
+      "City built on seven hills with yellow trams",
+      "Rebuilt after a devastating 1755 earthquake"
+    ],
+    "funFacts": [
+      "It's the oldest city in Western Europe, predating Rome by centuries.",
+      "The Vasco da Gama Bridge is the longest bridge in Europe."
+    ]
+  },
+  {
+    "alias": "dst64",
+    "name": "La Paz",
+    "clues": [
+      "Highest administrative capital in the world",
+      "City with a cable car public transportation system"
+    ],
+    "funFacts": [
+      "The city's elevation ranges from 3,100 to 4,100 meters above sea level.",
+      "It has a 'Witches' Market' selling unusual items like dried frogs and llama fetuses."
+    ]
+  },
+  {
+    "alias": "dst65",
+    "name": "Grand Canyon",
+    "clues": [
+      "Mile-deep gorge carved by the Colorado River",
+      "Reveals nearly two billion years of Earth's geological history"
+    ],
+    "funFacts": [
+      "It's 277 miles long and up to 18 miles wide.",
+      "Contains some of the oldest exposed rock on Earth."
+    ]
+  },
+  {
+    "alias": "dst66",
+    "name": "Pamukkale",
+    "clues": [
+      "Natural site with terraces of mineral-rich thermal waters",
+      "Known as 'Cotton Castle' in Turkish"
+    ],
+    "funFacts": [
+      "The ancient city of Hierapolis was built on top of it.",
+      "The white travertine terraces are formed by calcium deposits from the hot springs."
+    ]
+  },
+  {
+    "alias": "dst67",
+    "name": "Aurora Borealis",
+    "clues": [
+      "Natural light display in high-latitude regions",
+      "Also known as the Northern Lights"
+    ],
+    "funFacts": [
+      "They're caused by collisions between electrically charged particles from the sun and atmospheric gases.",
+      "The different colors are produced by different types of gas particles."
+    ]
+  },
+  {
+    "alias": "dst68",
+    "name": "Mumbai",
+    "clues": [
+      "City formerly known as Bombay",
+      "Home to the Gateway of India monument"
+    ],
+    "funFacts": [
+      "It's the world's most densely populated city.",
+      "Dharavi is one of Asia's largest slums but also a major economic hub."
+    ]
+  },
+  {
+    "alias": "dst69",
+    "name": "Petra",
+    "clues": [
+      "Ancient city carved into rose-colored stone",
+      "Featured in 'Indiana Jones and the Last Crusade'"
+    ],
+    "funFacts": [
+      "It was unknown to the Western world until 1812.",
+      "The name comes from the Greek word for 'rock'."
+    ]
+  },
+  {
+    "alias": "dst70",
+    "name": "Antarctic Peninsula",
+    "clues": [
+      "Northernmost part of the Antarctic mainland",
+      "Most visited region of the seventh continent"
+    ],
+    "funFacts": [
+      "It's one of the fastest-warming places on Earth.",
+      "Home to millions of breeding Adélie and gentoo penguins."
+    ]
+  },
+  {
+    "alias": "dst71",
+    "name": "Uluru",
+    "clues": [
+      "Massive sandstone monolith in the Australian Outback",
+      "Sacred to indigenous Australians"
+    ],
+    "funFacts": [
+      "It changes color throughout the day, appearing to glow red at sunset.",
+      "The rock extends 2.5 km underground."
+    ]
+  },
+  {
+    "alias": "dst72",
+    "name": "Fiji",
+    "clues": [
+      "Archipelago of more than 330 islands",
+      "Known for blue lagoons and coral reefs"
+    ],
+    "funFacts": [
+      "Only about a third of the islands are inhabited.",
+      "It was a British colony until 1970."
+    ]
+  },
+  {
+    "alias": "dst73",
+    "name": "Moai of Easter Island",
+    "clues": [
+      "Monolithic human figures carved from rock",
+      "Created by the Rapa Nui people"
+    ],
+    "funFacts": [
+      "There are nearly 1,000 statues, averaging 13 feet tall and weighing 14 tons.",
+      "Many were toppled during tribal conflicts."
+    ]
+  },
+  {
+    "alias": "dst74",
+    "name": "Chernobyl",
+    "clues": [
+      "Site of a 1986 nuclear disaster",
+      "Now a ghost town in northern Ukraine"
+    ],
+    "funFacts": [
+      "Wildlife has flourished in the absence of humans.",
+      "The area won't be safe for human habitation for up to 20,000 years."
+    ]
+  },
+  {
+    "alias": "dst75",
+    "name": "Amazon Rainforest",
+    "clues": [
+      "World's largest tropical rainforest",
+      "Produces 20% of Earth's oxygen"
+    ],
+    "funFacts": [
+      "It contains one in ten known species on Earth.",
+      "The forest is estimated to contain 390 billion individual trees."
+    ]
+  },
+  {
+    "alias": "dst76",
+    "name": "Amalfi Coast",
+    "clues": [
+      "Stretch of coastline with colorful cliffside villages",
+      "UNESCO World Heritage Site in southern Italy"
+    ],
+    "funFacts": [
+      "The road along the coast has over 1,000 curves.",
+      "It was once a powerful maritime republic."
+    ]
+  }
+]
